@@ -110,4 +110,4 @@ while True:
     if t == decrypt(encrypt(t, k), k):
         print('SUCCESS!')
     else:
-        print('FAIL! beleive it or not; jail.')
+        print('FAIL!')
